@@ -1,0 +1,14 @@
+uuid: fd6e196a-b928-4331-aab9-ef2af6d061aa
+name: drupal8delphia
+mail: ansonh@easternstandard.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
