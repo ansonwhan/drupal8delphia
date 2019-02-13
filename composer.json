@@ -23,6 +23,7 @@
         "drupal/config_installer": "^1.0",
         "drupal/console": "^1",
         "drupal/core": "^8",
+        "drupal/datalayer": "^1.0",
         "drupal/lockr": "^2.4",
         "drupal/metatag": "^1.7",
         "drupal/paragraphs": "^1.5",
